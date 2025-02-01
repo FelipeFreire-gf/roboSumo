@@ -47,21 +47,7 @@ Link para a documentação do projeto: [MkDocs - Aries 2024.2](https://fga0138-m
 # Equipe
 
 Conheça a contribuição dos membros em cada uma das nossas áreas abaixo:
-
-
-| **📸**    | [<img src="./docs/view/img/klei.jpg" width=100>]() |
-|:---------:|:------------------------------------------------------------------------------: |
-| **Nome**  | [Kleyson Nacarat](https://github.com/caioduart3)                                |  
-| **Cargo** | Product Owner                                                                   |
-
-<br></br>
-
-
-| **📸**    | [<img src="https://avatars.githubusercontent.com/u/134105981?v=4" width=100>]() |
-|:---------:|:------------------------------------------------------------------------------: |
-| **Nome**  | [Caio Duarte](https://github.com/caioduart3)                                    |  
-| **Cargo** | Scrum Master                                                                    |
- 
+                                                                |
 <br></br>
 
 
@@ -69,10 +55,3 @@ Conheça a contribuição dos membros em cada uma das nossas áreas abaixo:
 |:---------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
 | **Nome**  | [Ludmila Aysha](https://github.com/ludmilaaysha) | [Rafael Welz](https://github.com/)  | [Felipe Freire](https://github.com/FelipeFreire-gf)                           |                     
 | **Cargo** | Leader Squad - Front End                           | Leader Squad - Back End                                                              | Leader Squad - Banco de Dados e Testes                                                            |
-
-<br></br>
-
-| **📸**    | [<img src="https://avatars.githubusercontent.com/u/128251768?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/173021374?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/144369305?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/179030119?" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/69173517?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/145882190?v=4" width=100>]() |
-|:---------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|
-| **Nome**  | [Amanda Cruz](https://github.com/) | [Felipe Duarte](https://github.com/)  | [Mayara Marques](https://github.com/maymarquee)                           | [Othavio Araujo](https://github.com/)                            | [Vinicíus Alves](https://github.com/)                        | [Izaque Camargos](https://github.com/)                              |
-| **Cargo** |  DEV   |  DEV  |  DEV  |  DEV    | DEV    | DEV    |

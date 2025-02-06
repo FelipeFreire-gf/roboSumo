@@ -10,7 +10,7 @@ Desenvolvimento de um robô destruidor de mundos, brincadeira, um robô lutador 
   
 # Documentação
 
-Link para a documentação do projeto: [MkDocs - Equipe "II"](https://fga0138-mds-ajax.github.io/2024.2-Aries/) <br><br>
+Link para a documentação do projeto: [MkDocs - Equipe "II"]() <br><br>
 
 <!--
 

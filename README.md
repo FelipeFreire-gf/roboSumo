@@ -6,26 +6,11 @@
 
 # Sobre
 
-Este projeto visa o desenvolvimento de um aplicativo web, concebido para atender às necessidades da equipe de competição Mamutes do Cerrado da UnB - FCTE. A proposta é oferecer uma plataforma unificada que atenda dois pilares principais: divulgação da equipe e gerenciamento interno, otimizando a organização e a visibilidade da equipe.
-
-## Objetivos do Sistema
-
-1. Divulgação da Equipe
-
-Uma página inicial que apresente a identidade visual dos Mamutes do Cerrado, seus integrantes, competições e informações essenciais, como o processo seletivo para novos membros. Essa área será o ponto de entrada, projetada para atrair e engajar visitantes.
-
-2. Gerenciamento Interno
-
-Oferecer ferramentas dedicadas para a organização eficiente das atividades da equipe, distribuídas em módulos específicos:
-
-- Gerência de Calendário: Uma interface com quadro Kanban para organização de tarefas e um calendário que consolida os compromissos da equipe.
-- Gerência de Estoque: Controle detalhado de peças e materiais, incluindo quantidades disponíveis e status atualizado.
-- Gerência de Reuniões: Registro de atas e controle de presença nas reuniões, promovendo transparência e acompanhamento das decisões.
-- Gerência de Documentos: Administração centralizada de arquivos relacionados à equipe, como documentos de voo e outros correlatos.
+Desenvolvimento de um robô destruidor de mundos, brincadeira, um robô lutador de sumô elaborado como parte do processo seletivo para admissão da equipe de competição Titans concentrada na Faculdade de Ciência, Tecnologia e Engenharia da Universidade de Brasília - FCTE, UnB.
   
 # Documentação
 
-Link para a documentação do projeto: [MkDocs - Aries 2024.2](https://fga0138-mds-ajax.github.io/2024.2-Aries/) <br><br>
+Link para a documentação do projeto: [MkDocs - Equipe "II"](https://fga0138-mds-ajax.github.io/2024.2-Aries/) <br><br>
 
 <!--
 
@@ -46,12 +31,12 @@ Link para a documentação do projeto: [MkDocs - Aries 2024.2](https://fga0138-m
 
 # Equipe
 
-Conheça a contribuição dos membros em cada uma das nossas áreas abaixo:
+Conheça os membros da equipe "II":
                                                                 |
 <br></br>
 
 
-| **📸**    | [<img src="https://avatars.githubusercontent.com/u/91512745?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/179030119?" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/62055315?v=4" width=100>]() |
-|:---------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| **Nome**  | [Ludmila Aysha](https://github.com/ludmilaaysha) | [Rafael Welz](https://github.com/)  | [Felipe Freire](https://github.com/FelipeFreire-gf)                           |                     
-| **Cargo** | Leader Squad - Front End                           | Leader Squad - Back End                                                              | Leader Squad - Banco de Dados e Testes                                                            |
+| **📸**    | [<img src="https://avatars.githubusercontent.com/u/62055315?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/186127003?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/113267642?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/189680932?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/197327695?v=4" width=100>]() | [<img src="https://avatars.githubusercontent.com/u/153767458?v=4" width=100>]() |
+|:---------:|:------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+| **Nome**  | [Felipe Freire](https://github.com/FelipeFreire-gf) | [Arthur Vilas](https://github.com/arthurvbl)  | [Micael Nildo](https://github.com/micaelnildoo) | [Vitor Teixeira](https://github.com/vitorreix) | [João Victor](https://github.com/viktor485) | [Matheus Félix](https://github.com/matheusfelix18) |                     
+

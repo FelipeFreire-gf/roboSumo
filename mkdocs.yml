@@ -1,16 +1,16 @@
-site_name: Documentação Mamutes do Cerrado
+site_name: Documentação Equipe II - robôLutadorDeSumô
 
 nav:
-  - Landing Page: "landing.html"
+ # - Landing Page: "landing.html"
   - Apresentação: index.md
 
   - Atas:
-      - Equipe:
-          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1-equipe.md"
+          - 1º Reunião: "atas-reuniao/ata-reuniao-1.md"
 
   - Documentação:
-      - Visão Geral: "documento-visao/documento-visao.md"
-      - Arquitetura: "documento-arquitetura/documento-arquitetura.md"
+      - Estruturas: "documento-estruturas/documento-estrutura.md"
+      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Firmware: "documento-firmware/documento-firmware.md"
 
   - Links: "links/links.md"
 

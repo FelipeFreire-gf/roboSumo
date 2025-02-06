@@ -18,8 +18,8 @@ nav:
 
   - Documentação:
       - Eletrônica: "documento-eletronica/documento-eletronica.md"
-      - Estrutura: "documento-estrutura/documento-estrutura.md"
-      - Software: "documento-software/documento-software.md"
+      - Estrutura: "documento-estrutura/documento-estruturas.md"
+      - Firmware: "documento-firmware/documento-firmware.md"
 
   - Links: "links/links.md"
 

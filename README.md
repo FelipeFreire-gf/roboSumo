@@ -6,7 +6,7 @@
 
 # Sobre
 
-Desenvolvimento de um robô destruidor de mundos, brincadeira, um robô lutador de sumô elaborado como parte do processo seletivo para admissão da equipe de competição Titans concentrada na Faculdade de Ciência, Tecnologia e Engenharia da Universidade de Brasília - FCTE, UnB.
+Desenvolvimento de um robô destruidor de mundos, brincadeira, um robô lutador de sumô elaborado como parte do processo seletivo para admissão da equipe de robótica Titans concentrada na Faculdade de Ciência, Tecnologia e Engenharia da Universidade de Brasília - FCTE, UnB.
   
 # Documentação
 

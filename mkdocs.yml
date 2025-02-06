@@ -1,0 +1,56 @@
+site_name: Documentação Equipe II - robôLutadorDeSumô
+
+nav:
+ # - Landing Page: "landing.html"
+  - Apresentação: index.md
+
+  - Atas:
+          - 1º Reunião: "atas-reuniao/ata-reuniao-1.md"
+
+  - Documentação:
+      - Estruturas: "documento-estruturas/documento-estrutura.md"
+      - Eletrônica: "documento-eletronica/documento-eletronica.md"
+      - Firmware: "documento-firmware/documento-firmware.md"
+
+  - Links: "links/links.md"
+
+theme:
+  name: material
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.expand
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+
+  palette:
+    # Paleta para modo claro
+    - scheme: default
+      primary: white
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+
+    # Paleta para modo escuro
+    - scheme: slate
+      primary: black
+      accent: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+extra_css:
+  - stylesheets/styles.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+
+styles_css:
+  - view/css/styles.css

@@ -5,16 +5,19 @@ nav:
   - Apresentação: index.md
 
   - Atas:
-      - Cliente:
-          - Ata 1: "atas-reuniao/cliente/ata-reuniao-1.md"
-          - Ata 2: "atas-reuniao/cliente/ata-reuniao-2.md"
-          - Ata 3: "atas-reuniao/cliente/ata-reuniao-3.md"
-
-
+      - Capacitação:
+          - Ata 1: "atas-reuniao/capacitacao/ata-reuniao-cap-1.md"
+          - Ata 2: "atas-reuniao/capacitacao/ata-reuniao-cap-2.md"
+          - Ata 3: "atas-reuniao/capacitacao/ata-reuniao-cap-3.md"
+          - Ata 4: "atas-reuniao/capacitacao/ata-reuniao-cap-4.md"
+          - Ata 5: "atas-reuniao/capacitacao/ata-reuniao-cap-5.md"
+          - Ata 6: "atas-reuniao/capacitacao/ata-reuniao-cap-6.md"
+          - Ata 7: "atas-reuniao/capacitacao/ata-reuniao-cap-7.md"
+          - Ata 8: "atas-reuniao/capacitacao/ata-reuniao-cap-8.md"
+          - Ata 9: "atas-reuniao/capacitacao/ata-reuniao-cap-9.md"
+     
       - Equipe:
-          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1-equipe.md"
-          - Ata 2: "atas-reuniao/equipe/ata-reuniao-2-equipe.md"
-          - Ata 3: "atas-reuniao/equipe/ata-reuniao-3-equipe.md"
+          - Ata 1: "atas-reuniao/equipe/ata-reuniao-1.md"
 
   - Documentação:
       - Eletrônica: "documento-eletronica/documento-eletronica.md"

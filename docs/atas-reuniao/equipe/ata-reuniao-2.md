@@ -1,4 +1,4 @@
-# Ata da Reunião 1 - Gestão de Desenvolvimento
+# Ata da Reunião 2 - Distribuição de issues
 
 **Data:** 11/02/2025  
 **Hora:** 21:00  

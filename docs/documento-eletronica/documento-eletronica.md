@@ -18,6 +18,19 @@ Em suma alguns testes foram feitos usando o protheus 8.9 para simulçao do hardw
 
 a ser colocado aki :p
 
+
+## Componentes:
+
+| Categoria                | Descrição                                     | Link                                                                                                                                  |
+|--------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| **motor n20 6v DE PARAFUSADEIRA HAHAHAHH**                      | Informações sobre a ponte H         | [Acessar](https://produto.mercadolivre.com.br/MLB-3250167567-micro-motor-n20-6v-alto-torque-mini-parafusadeira-robotica-_JM)                        |
+| **lm317**                | só o regulador, ai precisa dos resitores pro divisor de tensão e zas        | [Acessar](https://www.huinfinito.com.br/reguladores-de-tensao/353-lm317-12-37v-15a.html) |
+| **modulo abaixador de tensão**                | regulador no módulo já pronto                | [Acessar](https://www.huinfinito.com.br/home/1218-modulo-abaixador-tensao-ajustavel-dc-dc-lm317.html) |
+
+
+
+
+
 ---
 # Tabela de Versionamento 
 

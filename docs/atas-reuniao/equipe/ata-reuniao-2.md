@@ -4,7 +4,7 @@
 **Hora:** 21:00  
 **Local:** Online - Discord  
 
-**Responsável pela Reunião e ATA:** Micael Nildo e Felipe Freire 
+**Responsável pela Reunião e ATA:** Micael Nildo (responsável pela reunião) e Felipe Freire (responsável pela ata)
 
 ---
 
@@ -15,7 +15,7 @@
 | Felipe Freire     | ✔️    |
 | Daniel Diniz      | ✔️    |
 | João Victor       | ❌    |
-| Matheus Félix     | ❌    |
+| Matheus Félix     | ✔️    |
 | Vitor Teixeira    | ✔️    |
 | Micael Nildo      | ✔️    |
 | Arthur Vilas Boas | ✔️    |
@@ -23,7 +23,7 @@
 ---
 ## Objetivo
 
-Atribuir resposabildades no projeto e propor soluções de hardware, software e estrutura.
+Atribuir resposabildades no projeto e propor soluções de hardware, software e estrutura. O link utilizado para atribuição de issues está disponível [aqui](https://docs.google.com/spreadsheets/d/135mzD1ZBbD6M-8duQVhTYMZb_10_hOWJFWDvoCnPvOk/edit?gid=117011966#gid=117011966).
 
 ---
 ## Divisão de Tarefas
@@ -33,17 +33,17 @@ Foram definidos issues espécificas para os membros.
 - **Modelagem do carrinho**  
   Felipe Freire & Daniel Diniz
 
-Felipe ficou responsável por modelar a rodinha e ajustar com o solicone, e o Daniel por modelar o carrinho de acordo com as regras da competição.
+ O Daniel ficou responável por modelar o carrinho de acordo com as regras da competição, o Felipe ficom como suporte para a modelagem do carrinho além de ficar responável por 
 
-- **Desenvolver a placa eletrônica e a documentacao**  
+- **Desenvolver a placa eletrônica e a documentação**  
   Vitor e Matheus Félix
 
-Vitor e Matheus ficaram responsável por propor soluções na eletrônica de acordo com as necessidades do projeto, além de documenta-las. O Felipe ficou de passar os componentes eletrônicos que o mesmo possui para o Vitor.
+Vitor e Matheus ficaram responsável por propor soluções na eletrônica de acordo com as necessidades do projeto, além de documenta-las. O Felipe ficou de passar os componentes eletrônicos para o Vitor.
 
 - **Configurar o controle e alinhar os códigos do projeto**  
-  Felipe Freire e Arthur 
+  Felipe Freire e Arthur Vilas
 
-Vitor e Matheus ficaram responsável por propor soluções na eletrônica de acordo com as necessidades do projeto, além de documenta-las.
+Arthur e o Felipe ficaram responáveis por configurar o controle e alinhar os códigos do projeto. De tal forma que o Arthur ficou responsável por montar o código de locomoção e o Felipe em configurar o rádio e montar o setup de teste.
 
 ---
 # Tabela de Versionamento 

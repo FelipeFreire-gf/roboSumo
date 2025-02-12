@@ -30,6 +30,7 @@ a ser colocado aki :p
 | **2 bateria litio 3.7 18650**                | bateria, ia usar a teranty 2200 45c, mas tava muito grande e pegando muito espaço no carrinho aí mudamos pra essa    | [Acessar](https://www.huinfinito.com.br/baterias-acessorios/1419-bateria-litio-37v-18650-recarregavel.html) |
 | **resistores**                | tenho os resitores de 1k2 e 5k pro divisor de 6v, mas esses ressitores vamos vendo a necessidade e vamos conversando               |  |
 | **esp32**                | esp que vamos precisar alimentar               | [Acessar](https://www.huinfinito.com.br/home/1411-modulo-wifi-nodemcu-esp-32-bluetooth.html) |
+| **Receptor turnigy 9x**                | receptor que vamos precisar alimentar               | [Acessar](https://produto.mercadolivre.com.br/MLB-718179037-receptor-rx-turnigy-9x-8c-v2-24ghz-8ch-novo-_JM) |
 
 ---
 # Tabela de Versionamento 

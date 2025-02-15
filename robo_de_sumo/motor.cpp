@@ -8,10 +8,15 @@ Motor::Motor(int _pinIN1, int _pinIN2, int _canal1, int _canal2, int _frquencia,
 };
 
 void Motor::config(){
-    // 8 = 255
-    // 9 = 510    
-    ledcAttachChannel(pinIN1, frequencia, resolucao, canal1);
-    ledcAttachChannel(pinIN2, frequencia, resolucao, canal2);
+    pinMode(pinIN1, OUTPUT);                                // Define os pinos como saídas digitais
+    pinMode(pinIN2, OUTPUT);
+
+    ledcSetup(canal1,frequencia,resolucao);                 // Configura os canais de PWM no ESP32
+    ledcSetup(canal2,frequencia,resolucao);
+
+    ledcAttachPin(pinIN1,canal1);                           // Da attach dos pinos ao seus respectivos canais
+    ledcAttachPin(pinIN2,canal2);
+
 };
 
 void Motor::setPWM(int velocidade){

@@ -8,7 +8,7 @@ class Controle{
         Robo* robo;
         int velocidade;
     public:
-        Controle(Robo* _robo, int _velocidade = 100);
+        Controle(Robo* _robo, int _velocidade);
 
         void frente();
         void tras();

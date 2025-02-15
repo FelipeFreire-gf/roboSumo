@@ -34,7 +34,7 @@ void setup()
 
 void loop()
 {
-   Dabble.processInput();                                      // Controle processa comando
+   Dabble.processInput();                                       // Controle processa comando
 
 
     if (GamePad.isUpPressed()){                                 // Comando de seta para cima(anda para frente)

@@ -16,7 +16,7 @@
 #define D_CANAL1 0
 #define D_CANAL2 1 
 
-#define FREQUENCIA 5000 //5khz
+#define FREQUENCIA 5000 //5khz alteracao 5000 - 500 teste
 #define RESOLUCAO 8     //8bits
 
 Motor motorDireito(D_PIN_IN1, D_PIN_IN2, D_CANAL1, D_CANAL2, FREQUENCIA, RESOLUCAO);
@@ -24,12 +24,12 @@ Motor motorEsquerdo(E_PIN_IN1, E_PIN_IN2, E_CANAL1, E_CANAL2, FREQUENCIA, RESOLU
 
 Robo sumo(&motorEsquerdo, &motorDireito);
 
-Controle controle(&sumo, 150);
+Controle controle(&sumo, 2000);
 
 void setup()
 {
-    Serial.begin(115200);                                           // Comunicação serial para receber comandos
-    Dabble.begin("roboSumo");                                       // Nome do bluetooth
+    Serial.begin(9600);                                           // Comunicação serial para receber comandos
+    Dabble.begin("roboSumo-napoleao2");                                       // Nome do bluetooth
 }
 
 void loop()

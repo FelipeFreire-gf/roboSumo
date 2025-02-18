@@ -1,27 +1,31 @@
 #include <Arduino.h>
 #include "motor.h"
 
-Motor::Motor(int _pinIN1, int _pinIN2, int _canal1, int _canal2, int _frquencia, int _resolucao):
-    pinIN1(_pinIN1), pinIN2(_pinIN2), canal1(_canal1), canal2(_canal2), frequencia(_frquencia), resolucao(_resolucao)
+Motor::Motor(int _pinIN1, int _pinIN2, int _canal1, int _canal2, int _frequencia, int _resolucao)
+    : pinIN1(_pinIN1), pinIN2(_pinIN2), canal1(_canal1), canal2(_canal2), frequencia(_frequencia), resolucao(_resolucao)
 {
     config();
-};
+}
 
-void Motor::config(){
-    ledcAttachChannel(pinIN1, frequencia, resolucao, canal1);
-    ledcAttachChannel(pinIN2, frequencia, resolucao, canal2);
-};
+void Motor::config() {
+    // Configurar os canais de PWM
+    ledcSetup(canal1, frequencia, resolucao);
+    ledcSetup(canal2, frequencia, resolucao);
 
-void Motor::setPWM(int velocidade){
-    if (velocidade > 0){
-        ledcWrite(pinIN1, velocidade);              // sentido frente
-        ledcWrite(pinIN2, 0);                       // parar
-    }           
-    else if (velocidade < 0){
-        ledcWrite(pinIN2, (-1)*velocidade);         // sentido tras
-        ledcWrite(pinIN1, 0);                       // parar
-    }else{
-        ledcWrite(pinIN1, 0);
-        ledcWrite(pinIN2, 0);
+    // Associar os pinos aos canais
+    ledcAttachPin(pinIN1, canal1);
+    ledcAttachPin(pinIN2, canal2);
+}
+
+void Motor::setPWM(int velocidade) {
+    if (velocidade > 0) {
+        ledcWrite(canal1, velocidade);  // Gira para frente
+        ledcWrite(canal2, 0);           // Para o outro lado
+    } else if (velocidade < 0) {
+        ledcWrite(canal2, -velocidade); // Gira para trás
+        ledcWrite(canal1, 0);           // Para o outro lado
+    } else {
+        ledcWrite(canal1, 0);  // Para ambos
+        ledcWrite(canal2, 0);
     }
-};
+}

@@ -1,7 +1,7 @@
 # Equipe de Robôtica Titans - P.S. 2025.1 Trainee: Robô Lutador de Sumô
 
 <p align="center">
-  <img src="./docs/view/img/logoAqui" height='300px' style={{ display: 'block', margin: 'auto', marginTop: '100px' }} />
+  <img src="./docs/view/img/car3.jpeg" height='300px' style={{ display: 'block', margin: 'auto', marginTop: '100px' }} />
 </p>
 
 # Sobre
